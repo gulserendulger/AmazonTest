@@ -1,0 +1,13 @@
+# AmazonTest
+- https://www.amazon.com.tr/ sitesi açılır. 
+- Ana sayfanın açıldığı kontrol edilir.
+- Giriş yap butonuna basılır.
+- Login olunur.
+- Tüm kategoriler butonuna tıklanır.
+- Kitaplar seçilir.
+- ‘Jose Mauro de Vasconcelos’ yazılır ve klavyeden enter tuşuna basılır.
+- Listelenen kitapların arasından rastgele bir kitap seçilir.
+- Sepete ekle butonuna basılır. 
+- Sepet ikonu kontrol edilir.
+- Alışveriş sepetine tıklanır.
+- Eklenen ürün silinir.
